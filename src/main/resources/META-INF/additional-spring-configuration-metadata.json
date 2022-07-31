@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "<spring.version>4.3.4.RELEASE<\/spring.version>",
+  "type": "java.lang.String",
+  "description": "A description for '<spring.version>4.3.4.RELEASE<\/spring.version>'"
+}]}
